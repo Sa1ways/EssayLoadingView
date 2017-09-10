@@ -98,8 +98,8 @@ bintray {
     //一般的为了保密和安全性，在项目的local.properties文件中添加两行句话即可：
     //bintray.user=username
     //bintray.apikey=apikey
-    user = properties.getProperty("bintray.user")
-    key = properties.getProperty("bintray.apikey")
+    user = "shadowa1ker"
+    key ="aa0786de59fd3416cbcaada694291ba86a48d281"
 
     configurations = ['archives']
 
