@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="EssayProgressCircle">
+        <attr name="maxSweepAngle" format="integer"/>
+        <attr name="minSweepAngle" format="integer"/>
+        <attr name="sweepSteps" format="integer"/>
+        <attr name="circleSteps" format="integer"/>
+        <attr name="paintWidth" format="dimension"/>
+        <attr name="progressColor" format="color"/>
+    </declare-styleable>
+</resources>
